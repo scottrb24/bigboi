@@ -1,3 +1,10 @@
 # bigboi
-<h1> Hi </h1>
-<p> My name Jeff </p>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+
+</body>
+</html>
